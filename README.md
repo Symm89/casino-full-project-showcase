@@ -2,7 +2,31 @@
 PHP, JavaScript, CSS and MySQL based casino-style multi-game web platform showcase. Source code is private.
 # Full Casino-Style Multi Game Web Platform
 
-https://github.com/Symm89/casino-full-project-showcase/blob/d5074c0c290af4815d875ddc6f508491f6bd78de/IMG_9415.png
+## Screenshots
+
+### User Login Page
+![User Login Page](IMG_9415.png)
+
+### Admin Panel
+![Admin Panel](IMG_9416.png)
+
+### Admin Dashboard
+![Admin Dashboard](IMG_9417.png)
+
+### Admin Login
+![Admin Login](IMG_9418.png)
+
+### Game Router / Lobby
+![Game Router / Lobby](IMG_9419.png)
+
+### Turbo Game
+![Turbo Game](IMG_9420.png)
+
+### Fruit Game
+![Fruit Game](IMG_9421.png)
+
+### Deluxe Game
+![Deluxe Game](IMG_9422.png)
 
 This project is a complete casino-style multi-game web platform built with PHP, JavaScript, CSS and MySQL.
 
