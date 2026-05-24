@@ -4,29 +4,7 @@ PHP, JavaScript, CSS and MySQL based casino-style multi-game web platform showca
 
 ## Screenshots
 
-### User Login Page
-![User Login Page](IMG_9415.png)
 
-### Admin Panel
-![Admin Panel](IMG_9416.png)
-
-### Admin Dashboard
-![Admin Dashboard](IMG_9417.png)
-
-### Admin Login
-![Admin Login](IMG_9418.png)
-
-### Game Router / Lobby
-![Game Router / Lobby](IMG_9419.png)
-
-### Turbo Game
-![Turbo Game](IMG_9420.png)
-
-### Fruit Game
-![Fruit Game](IMG_9421.png)
-
-### Deluxe Game
-![Deluxe Game](IMG_9422.png)
 
 This project is a complete casino-style multi-game web platform built with PHP, JavaScript, CSS and MySQL.
 
@@ -77,4 +55,34 @@ This software is provided as a web game script and entertainment/demo project. T
 
 For demo access, purchase information or private source code delivery, contact the project owner.
 
-telegram@symm89
+## Contact
+telegram@symm89 admin
+
+
+
+
+
+
+### User Login Page
+![User Login Page](IMG_9415.png)
+
+### Admin Panel
+![Admin Panel](IMG_9416.png)
+
+### Admin Dashboard
+![Admin Dashboard](IMG_9417.png)
+
+### Admin Login
+![Admin Login](IMG_9418.png)
+
+### Game Router / Lobby
+![Game Router / Lobby](IMG_9419.png)
+
+### Turbo Game
+![Turbo Game](IMG_9420.png)
+
+### Fruit Game
+![Fruit Game](IMG_9421.png)
+
+### Deluxe Game
+![Deluxe Game](IMG_9422.png)
