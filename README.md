@@ -2,6 +2,8 @@
 PHP, JavaScript, CSS and MySQL based casino-style multi-game web platform showcase. Source code is private.
 # Full Casino-Style Multi Game Web Platform
 
+https://github.com/Symm89/casino-full-project-showcase/blob/d5074c0c290af4815d875ddc6f508491f6bd78de/IMG_9415.png
+
 This project is a complete casino-style multi-game web platform built with PHP, JavaScript, CSS and MySQL.
 
 The platform includes multiple game modules such as Aviator-style crash game, Plinko-style drop game, fruit slot game, deluxe slot game and turbo/racing themed slot game. Each game module has its own interface, assets, backend API structure, frontend logic and responsive design.
